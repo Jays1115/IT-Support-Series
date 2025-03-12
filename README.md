@@ -1,3 +1,7 @@
+<h5>Directory</h5> 
+
+<b>[Tech Portfolio Home](https://github.com/Jays1115/Jalen-Smith.git)</b>
+
 # IT Support Series
 <p>Description:</p>
 This is an ongoing video series demonstrating core IT support skills across various platforms and scenarios. Each mini-series focuses on a specific environment and breaks down real-world tasks that entry-level technicians are expected to know.
